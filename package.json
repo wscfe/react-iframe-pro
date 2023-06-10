@@ -1,6 +1,6 @@
 {
   "name": "react-iframe-pro",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c",
