@@ -1,6 +1,6 @@
 {
-  "name": "simple-react-component-template",
-  "version": "0.0.7",
+  "name": "react-iframe-pro",
+  "version": "0.1.0",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c",
@@ -8,7 +8,7 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "author": "wangshicheng",
+  "author": "王事成 <3137252538@qq.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.22.5",
