@@ -20,7 +20,7 @@ export interface IIframeProps {
   children?: ReactNode;
 }
 
-export const Iframe: React.FC<IIframeProps> = (props) => {
+const Iframe: React.FC<IIframeProps> = (props) => {
   const {
     head,
     srcDoc = '<!DOCTYPE html><html><head></head><body><div id="frame-root"></div></body></html>',
@@ -66,3 +66,5 @@ export const Iframe: React.FC<IIframeProps> = (props) => {
     </iframe>
   );
 };
+
+export default Iframe;
